@@ -1,0 +1,2 @@
+# OS
+OPERAČNÍ SYSTÉM
